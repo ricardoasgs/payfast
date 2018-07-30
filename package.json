@@ -9,12 +9,13 @@
   },
   "keywords": [
     "api",
-    "gateway",
+    "pagamentos",
     "javascript"
   ],
   "author": "Ricardo Garcoa",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "consign": "^0.1.2",
     "express": "^4.14.0"
   }
